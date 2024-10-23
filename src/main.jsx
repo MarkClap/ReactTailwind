@@ -8,7 +8,7 @@ import Nav from './Nav.jsx'
 createRoot(document.getElementById('root')).render(
 
   <StrictMode>
-    <Nav/>,
+    <Nav/>
     <App />
   </StrictMode>,
 )
