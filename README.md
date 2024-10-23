@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 # ReactTailwind
 
 Instalar: 
-npm i
+"npm i"
 
 Ejecutar: 
-npm run dev
+"npm run dev"
